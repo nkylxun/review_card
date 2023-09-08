@@ -30,7 +30,7 @@ p, b, small{
 	font-size: 1.8rem;
 	letter-spacing: 0.05rem;
 }
-h2{
+h1{
 	font-size: 2rem;
 	color: hsl(0, 0%, 100%);
 	margin-bottom: 20px;
@@ -41,7 +41,7 @@ p span{
 	cursor: pointer;
 }
 
-h2:hover, p span:hover{
+h1:hover, p span:hover{
 	color: hsl(178, 100%, 50%);
 }
 
