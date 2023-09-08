@@ -105,7 +105,7 @@ h2:hover, p span:hover{
 	margin-left: 10px;
 	margin-top: 10px;
 }
-footer a{
+.cyan{
 	text-decoration: none;
 	color: hsl(178, 100%, 50%);
 }
